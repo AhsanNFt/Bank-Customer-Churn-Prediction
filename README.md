@@ -71,7 +71,7 @@ Evaluated the trained models using :
 ## 📉 Visualizations
 
 ### 📊 Churn Distribution  
-![image](https://github.com/user-attachments/assets/92e01180-a4ff-4ba4-b5f4-d2d282073727)
+![image](https://github.com/user-attachments/assets/f4950e33-cd1a-49d6-a74a-2de7b14f9776)
 
 **Insight**: 
 The Above Graph Shows that:
@@ -81,7 +81,7 @@ The dataset is imbalanced:
 
 ### 📈 Feature Distributions  
 **Age Distribution**
-![image](https://github.com/user-attachments/assets/14efb244-5f20-43f1-b731-5f4690d7de88)
+![image](https://github.com/user-attachments/assets/fdcd66ea-951d-4043-bdf4-e60145b40b58)
 
 **Insight**:
 The Above Graph Shows that:
@@ -90,7 +90,7 @@ The Above Graph Shows that:
 The distribution is slightly right-skewed.
 Age could play a role in customer churn.
 **Tenure Vs Churn**
-![image](https://github.com/user-attachments/assets/f71f902f-e6c9-4bf0-9572-8b50c440e51d)
+  ![image](https://github.com/user-attachments/assets/dccf8d1a-a0f3-4403-a650-611ea766f5d0)
 
 **Insight**:
 The Above Grapsh Shows that:
@@ -98,7 +98,7 @@ Churn is fairly uniform across all tenure levels (0–10 years).
 - No clear trend of more or less churn at any specific tenure.
 - Tenure alone may not be a strong predictor.
 ### 🟢 Feature Importance
-![image](https://github.com/user-attachments/assets/bdfdb258-e773-478d-a742-d81018ef1b63)
+![image](https://github.com/user-attachments/assets/1a25e02f-71e9-4522-8772-2b6d2ace20b2)
 
 **Insights**:
 The Above Graph evaluate the Importance of Feature
@@ -108,7 +108,8 @@ Top features influencing churn:
 - Features like `Geography_Spain`, `Gender_Male`, and `HasCrCard` have much lower importance These features are key drivers in the Random Forest model’s decisions.
 
 ### 📈 ROC Curve  
-![image](https://github.com/user-attachments/assets/b2ce25c5-46be-413e-80ff-47da4b76d2d9)
+![image](https://github.com/user-attachments/assets/ebbf335a-e144-4615-9de5-5d221b25f528)
+
 
 **Insights**:
 ROC Curve – Random Forest
