@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💼 Bank-Customer-Churn-Prediction
 
 ## 📌 Project Overview & Task Objective
@@ -170,3 +171,6 @@ For questions or collaboration:
 
 - GitHub: `AhsanNFt`
 - Email: `syedahsan0991@gmail.com`.
+=======
+# Bank-Customer-Churn-Prediction
+>>>>>>> 00d0bb9cef00bbd5a777b2eb5c5813cdee60fb20
